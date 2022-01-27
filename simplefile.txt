@@ -4,3 +4,4 @@
 03 line C (diff on line 3) 
 04 line D 
 05 line E  (diff on line 5) 
+06 line F (modified line 6)
